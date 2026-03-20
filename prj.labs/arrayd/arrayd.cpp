@@ -85,7 +85,6 @@ void ArrayD::remove(const std::ptrdiff_t idx) {
     throw std::invalid_argument("ArrayD::operator[] - invalid index");
   }
   if (idx != size_ - 1) {
-    // удаляем НЕ в конце
     std::memmove(data_ + idx, data_ + idx + 1, (size_ - idx) * sizeof(float));
   }
   resize(size_ - 1);
