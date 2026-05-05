@@ -1,4 +1,4 @@
-STAMP: 20260423-132733
+STAMP: 20260505-161323
 ERROR: file prj.thirdparty/doctest/doctest.h is absent
 ERROR: file prj.test/CMakeLists.txt is absent
 ERROR: file prj.labs/arrayt/CMakeLists.txt is absent
