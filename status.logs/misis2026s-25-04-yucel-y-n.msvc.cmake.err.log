@@ -1,8 +1,0 @@
-CMake Error at prj.labs/CMakeLists.txt:2 (add_subdirectory):
-  The source directory
-
-    D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/prj.labs/rational
-
-  does not contain a CMakeLists.txt file.
-
-
