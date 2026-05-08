@@ -1,5 +1,6 @@
 #include <complex/complex.hpp>
 #include <cmath>
+#include <iostream>
 #include <limits>
 
 Complex Complex::operator-() const noexcept {

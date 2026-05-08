@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/arrayd_test.dir/arrayd_test.cpp.o -o /Users/h1zzyy/Desktop/misis2026s-25-04-yucel-y-n/misis2026s-25-04-yucel-y-n/bin/arrayd_test  ../prj.labs/arrayd/libarrayd.a

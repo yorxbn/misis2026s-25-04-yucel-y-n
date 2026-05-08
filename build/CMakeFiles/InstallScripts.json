@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/h1zzyy/Desktop/misis2026s-25-04-yucel-y-n/misis2026s-25-04-yucel-y-n/build/cmake_install.cmake",
+		"/Users/h1zzyy/Desktop/misis2026s-25-04-yucel-y-n/misis2026s-25-04-yucel-y-n/build/prj.labs/cmake_install.cmake",
+		"/Users/h1zzyy/Desktop/misis2026s-25-04-yucel-y-n/misis2026s-25-04-yucel-y-n/build/prj.labs/complex/cmake_install.cmake",
+		"/Users/h1zzyy/Desktop/misis2026s-25-04-yucel-y-n/misis2026s-25-04-yucel-y-n/build/prj.labs/rational/cmake_install.cmake",
+		"/Users/h1zzyy/Desktop/misis2026s-25-04-yucel-y-n/misis2026s-25-04-yucel-y-n/build/prj.labs/arrayd/cmake_install.cmake",
+		"/Users/h1zzyy/Desktop/misis2026s-25-04-yucel-y-n/misis2026s-25-04-yucel-y-n/build/prj.test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

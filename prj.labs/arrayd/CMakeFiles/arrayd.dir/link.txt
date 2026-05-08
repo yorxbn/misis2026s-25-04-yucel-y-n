@@ -1,0 +1,2 @@
+/usr/bin/ar qc libarrayd.a CMakeFiles/arrayd.dir/arrayd.cpp.o
+/usr/bin/ranlib libarrayd.a
