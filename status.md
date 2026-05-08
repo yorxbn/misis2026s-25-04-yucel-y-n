@@ -1,22 +1,11 @@
-STAMP: 20260507-151349
-ERROR: file prj.thirdparty/doctest/doctest.h is absent
-ERROR: file prj.test/CMakeLists.txt is absent
+STAMP: 20260508-115227
 ERROR: file prj.labs/arrayt/CMakeLists.txt is absent
 ERROR: file prj.labs/arrayt/arrayt.hpp is absent
-ERROR: file prj.labs/bitsetd/CMakeLists.txt is absent
-ERROR: file prj.labs/bitsetd/bitsetd.hpp is absent
-ERROR: file prj.labs/dio/CMakeLists.txt is absent
-ERROR: file prj.labs/dio/dio.hpp is absent
 ERROR: file prj.labs/queuea/queuea.hpp is absent
 ERROR: file prj.labs/queuel/queuel.hpp is absent
-ERROR: file prj.test/arrayd_test.cpp is absent
-ERROR: file prj.test/arrayt_test.cpp is absent
 ERROR: file prj.test/queuea_test.cpp is absent
 ERROR: file prj.test/queuel_test.cpp is absent
-ERROR: file prj.test/arrayt_test.cpp is absent
 ERROR: file prj.test/bitsetd_profiler.cpp is absent
-ERROR: file prj.test/bitsetd_test.cpp is absent
-ERROR: file prj.test/dio_test.cpp is absent
 ERROR: file prj.test/rational_test.cpp is absent
 ERROR: CMake generator failed
 ERROR: lab bitsetd - test build failed
