@@ -1,4 +1,4 @@
-STAMP: 20260514-143355
+STAMP: 20260515-104340
 ERROR: file prj.labs/arrayt/arrayt.hpp is absent
 ERROR: file prj.labs/queuea/queuea.hpp is absent
 ERROR: file prj.labs/queuel/queuel.hpp is absent

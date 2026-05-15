@@ -84,10 +84,10 @@ Release/D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest
  8/13 Test #11: doctest_queuel_m .................***Not Run   0.00 sec
       Start 12: doctest_rational
       Start 13: doctest_rational_io
- 9/13 Test  #1: doctest_arrayd ...................***Failed    0.25 sec
+ 9/13 Test  #1: doctest_arrayd ...................***Failed    0.26 sec
 10/13 Test  #6: doctest_complex ..................   Passed    0.19 sec
 11/13 Test  #7: doctest_complex_io ...............***Failed    0.14 sec
-12/13 Test #12: doctest_rational .................   Passed    0.09 sec
+12/13 Test #12: doctest_rational .................   Passed    0.08 sec
 13/13 Test #13: doctest_rational_io ..............***Failed    0.04 sec
 
 15% tests passed, 11 tests failed out of 13
