@@ -9,7 +9,7 @@ D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/Release/doctest
 D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/Release/doctest_arrayt.exe.exe
 Release/D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_arrayt.exe
 Release/D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_arrayt.exe.exe
- 1/13 Test  #2: doctest_arrayt ...................***Not Run   0.00 sec
+ 1/14 Test  #2: doctest_arrayt ...................***Not Run   0.00 sec
       Start  3: doctest_bitsetd
 Could not find executable D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_bitsetd.exe
 Looked in the following places:
@@ -19,7 +19,7 @@ D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/Release/doctest
 D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/Release/doctest_bitsetd.exe.exe
 Release/D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_bitsetd.exe
 Release/D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_bitsetd.exe.exe
- 2/13 Test  #3: doctest_bitsetd ..................***Not Run   0.00 sec
+ 2/14 Test  #3: doctest_bitsetd ..................***Not Run   0.00 sec
       Start  4: doctest_bitsetd_io
 Could not find executable D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_bitsetd_io.exe
 Looked in the following places:
@@ -29,7 +29,7 @@ D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/Release/doctest
 D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/Release/doctest_bitsetd_io.exe.exe
 Release/D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_bitsetd_io.exe
 Release/D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_bitsetd_io.exe.exe
- 3/13 Test  #4: doctest_bitsetd_io ...............***Not Run   0.00 sec
+ 3/14 Test  #4: doctest_bitsetd_io ...............***Not Run   0.00 sec
       Start  5: doctest_bitsetd_m
 Could not find executable D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_bitsetd_m.exe
 Looked in the following places:
@@ -39,7 +39,7 @@ D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/Release/doctest
 D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/Release/doctest_bitsetd_m.exe.exe
 Release/D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_bitsetd_m.exe
 Release/D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_bitsetd_m.exe.exe
- 4/13 Test  #5: doctest_bitsetd_m ................***Not Run   0.00 sec
+ 4/14 Test  #5: doctest_bitsetd_m ................***Not Run   0.00 sec
       Start  6: doctest_complex
       Start  7: doctest_complex_io
       Start  8: doctest_queuea
@@ -51,7 +51,7 @@ D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/Release/doctest
 D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/Release/doctest_queuea.exe.exe
 Release/D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_queuea.exe
 Release/D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_queuea.exe.exe
- 5/13 Test  #8: doctest_queuea ...................***Not Run   0.00 sec
+ 5/14 Test  #8: doctest_queuea ...................***Not Run   0.00 sec
       Start  9: doctest_queuea_m
 Could not find executable D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_queuea_m.exe
 Looked in the following places:
@@ -61,7 +61,7 @@ D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/Release/doctest
 D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/Release/doctest_queuea_m.exe.exe
 Release/D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_queuea_m.exe
 Release/D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_queuea_m.exe.exe
- 6/13 Test  #9: doctest_queuea_m .................***Not Run   0.00 sec
+ 6/14 Test  #9: doctest_queuea_m .................***Not Run   0.00 sec
       Start 10: doctest_queuel
 Could not find executable D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_queuel.exe
 Looked in the following places:
@@ -71,7 +71,7 @@ D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/Release/doctest
 D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/Release/doctest_queuel.exe.exe
 Release/D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_queuel.exe
 Release/D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_queuel.exe.exe
- 7/13 Test #10: doctest_queuel ...................***Not Run   0.00 sec
+ 7/14 Test #10: doctest_queuel ...................***Not Run   0.00 sec
       Start 11: doctest_queuel_m
 Could not find executable D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_queuel_m.exe
 Looked in the following places:
@@ -81,18 +81,28 @@ D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/Release/doctest
 D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/Release/doctest_queuel_m.exe.exe
 Release/D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_queuel_m.exe
 Release/D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_queuel_m.exe.exe
- 8/13 Test #11: doctest_queuel_m .................***Not Run   0.00 sec
+ 8/14 Test #11: doctest_queuel_m .................***Not Run   0.00 sec
       Start 12: doctest_rational
       Start 13: doctest_rational_io
- 9/13 Test  #1: doctest_arrayd ...................***Failed    0.27 sec
-10/13 Test  #6: doctest_complex ..................   Passed    0.21 sec
-11/13 Test  #7: doctest_complex_io ...............***Failed    0.16 sec
-12/13 Test #12: doctest_rational .................   Passed    0.09 sec
-13/13 Test #13: doctest_rational_io ..............***Failed    0.04 sec
+      Start 14: doctest_jaggeda
+Could not find executable D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_jaggeda.exe
+Looked in the following places:
+D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_jaggeda.exe
+D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_jaggeda.exe.exe
+D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/Release/doctest_jaggeda.exe
+D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/Release/doctest_jaggeda.exe.exe
+Release/D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_jaggeda.exe
+Release/D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_jaggeda.exe.exe
+ 9/14 Test #14: doctest_jaggeda ..................***Not Run   0.00 sec
+10/14 Test  #1: doctest_arrayd ...................***Failed    0.25 sec
+11/14 Test  #6: doctest_complex ..................   Passed    0.20 sec
+12/14 Test  #7: doctest_complex_io ...............***Failed    0.14 sec
+13/14 Test #12: doctest_rational .................   Passed    0.09 sec
+14/14 Test #13: doctest_rational_io ..............***Failed    0.04 sec
 
-15% tests passed, 11 tests failed out of 13
+14% tests passed, 12 tests failed out of 14
 
-Total Test time (real) =   0.42 sec
+Total Test time (real) =   0.37 sec
 
 The following tests FAILED:
 	  1 - doctest_arrayd (Failed)
@@ -106,3 +116,4 @@ The following tests FAILED:
 	 10 - doctest_queuel (Not Run)
 	 11 - doctest_queuel_m (Not Run)
 	 13 - doctest_rational_io (Failed)
+	 14 - doctest_jaggeda (Not Run)

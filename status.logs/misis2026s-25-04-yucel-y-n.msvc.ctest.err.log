@@ -6,6 +6,7 @@ Unable to find executable: D:/projects/misis2026-check/misis2026s-25-04-yucel-y-
 Unable to find executable: D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_queuea_m.exe
 Unable to find executable: D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_queuel.exe
 Unable to find executable: D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_queuel_m.exe
+Unable to find executable: D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/bin.check/doctest_jaggeda.exe
 Errors while running CTest
 Output from these tests are in: D:/projects/misis2026-check/misis2026s-25-04-yucel-y-n/build.check/Testing/Temporary/LastTest.log
 Use "--rerun-failed --output-on-failure" to re-run the failed cases verbosely.
